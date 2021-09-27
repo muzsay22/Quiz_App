@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    android:background="@drawable/ic_background"
+    android:background="@color/gray"
     tools:context=".MainActivity">
 
     <TextView
@@ -70,7 +70,7 @@
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
            android:layout_marginTop="16dp"
-           android:background="@color/colorPrimary"
+           android:background="@color/gray"
            android:text="Start"
            android:textSize="18dp"
            android:textColor="#FFF">
